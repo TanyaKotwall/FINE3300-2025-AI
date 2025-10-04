@@ -9,6 +9,6 @@ This repository is for Assignment 1 which contains code in Python using Visual S
 ## How to Run
 To clone this repository to your computer, open Visual Studio Code.
 1. Run the Python files using git clone by writing in the terminal: git clone https://github.com/TanyaKotwall/FINE3300-2025-AI and press enter.
-Write cd FINE3300-2025-AI and press enter.
-Write code . and press enter
-Now the repository is downloaded, moved into a folder and opened in Visual Studio Code.
+2. Write cd FINE3300-2025-AI and press enter.
+3. Write code . and press enter
+4. Now the repository is downloaded, moved into a folder and opened in Visual Studio Code.
